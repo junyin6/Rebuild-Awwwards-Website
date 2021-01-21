@@ -1,1 +1,3 @@
-Followed Wrong Akram on how to rebuild Awwwards website. Going through practical applications of Framer Motion to recreate complex animations.
+Rebuild Furrow website featured on Awwwards website.
+References:
+Boiler Plate/ Starter code taken from Wrong Akram's starter repo.
